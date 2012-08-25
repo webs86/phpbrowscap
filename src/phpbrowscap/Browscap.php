@@ -1,8 +1,8 @@
 <?php
 
-namespace phpbrowscap;
+#namespace phpbrowscap;
 
-use \Exception as BaseException;
+#use \Exception as BaseException;
 
 /**
  * Browscap.ini parsing class with caching and update capabilities
@@ -831,5 +831,5 @@ class Browscap
  * @version    1.0
  * @license    http://www.opensource.org/licenses/MIT MIT License
  * @link       https://github.com/GaretJax/phpbrowscap/*/
-class Exception extends BaseException
-{}
+#class Exception extends BaseException
+#{}
